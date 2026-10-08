@@ -18,20 +18,27 @@
 ## 👨‍💻 `whoami`
 
 ```python
-class SumanPathak:
-    role = "Technical Architect · Senior Python Backend Engineer"
+@observe(trace=True, evaluate=True)
+class SumanPathak(Engineer):
+    """Technical Architect · Senior Python Backend Engineer"""
+
     experience = "13+ years"
-    focus = ["Python", "FastAPI", "SQL", "AWS", "GenAI", "LLMOps", "Observability"]
+    stack = ["Python", "FastAPI", "SQL", "AWS", "GenAI", "LLMOps", "Observability"]
     now = "Enterprise LLMOps observability platform (insurance / AI)"
-    mission = "Trace, evaluate and monitor LLM telemetry reliably at scale"
+    scale = {"apps": "15-20", "transactions_per_day": "10K+"}
+    mentored = 5
     mantra = "Build it clean. Make it observable. Scale it responsibly."
 
+    @retry(until="zero data loss")
+    def ship(self, feature):
+        try:
+            return self.design(feature).build().observe().scale()
+        except Exception as failure:
+            self.trace(failure)          # observable
+            return self.recover(feature)  # design for failure, not just the happy path
+
     def open_to(self):
-        return [
-            "Senior Python Backend Engineer",
-            "Technical Architect",
-            "GenAI / LLMOps / AI Platform Engineer",
-        ]
+        return ["Senior Python Backend", "Technical Architect", "GenAI / LLMOps / AI Platform"]
 ```
 
 ### 🛠️ What I love building
