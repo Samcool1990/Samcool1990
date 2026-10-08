@@ -353,7 +353,7 @@ come together.
 ## 🏆 GitHub Profile
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samcool1990E&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Samcool1990&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -361,7 +361,7 @@ come together.
 ## 🐍 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samcool1990E/Samcool1990E/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Samcool1990/Samcool1990/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -372,7 +372,7 @@ come together.
   <a href="https://github.com/Samcool1990">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sumanpathak-ai-work/)">
+  <a href="https://www.linkedin.com/in/sumanpathak-ai-work/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
