@@ -344,8 +344,8 @@ come together.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samcool1990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samcool1990E&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -353,7 +353,7 @@ come together.
 ## 🏆 GitHub Profile
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Samcool1990E&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -361,7 +361,7 @@ come together.
 ## 🐍 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Samcool1990E/Samcool1990E/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -369,7 +369,7 @@ come together.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Samcool1990E">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
