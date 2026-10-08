@@ -3,7 +3,7 @@
 <h3 align="center">Technical Architect | Senior Python Backend Engineer | GenAI & LLMOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=700&color=3776AB&center=true&vCenter=true&width=800&lines=Python+%7C+FastAPI+%7C+SQL+%7C+AWS;GenAI+%7C+LLMOps+%7C+Observability;Building+Scalable+Production+Systems;Cloud-Native+Backend+Engineering;13%2B+Years+of+Software+Engineering" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=700&color=3776AB&center=true&vCenter=true&width=800&lines=Python+%7C+FastAPI+%7C+SQL+%7C+AWS;GenAI+%7C+LLMOps+%7C+Observability;Building+Scalable+Production+Systems;Cloud-Native+Backend+Engineering;14%2B+Years+of+Software+Engineering" alt="Typing Animation"/>
 </p>
 
 <p align="center">
