@@ -17,7 +17,7 @@
 
 ## 🌟 About Me
 
-I'm **Suman Pathak**, a software engineer and technical architect with **13+ years of experience** building backend systems, APIs, cloud-native applications and AI/LLM platforms.
+I'm **Suman Pathak**, a software engineer and technical architect with **14+ years of experience** building backend systems, APIs, cloud-native applications and AI/LLM platforms.
 
 My strongest area is the intersection of:
 
