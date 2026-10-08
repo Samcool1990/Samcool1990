@@ -358,6 +358,23 @@ come together.
 
 ---
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samcool1990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Samcool1990&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Profile
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samcool1990&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4&row=2" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ## 🐍 GitHub Contribution Activity
 
 <p align="center">
