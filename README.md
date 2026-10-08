@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/13%2B%20Years-Software%20Engineering-1f6feb?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/14%2B%20Years-Software%20Engineering-1f6feb?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Python-8%2B%20Years-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-6%2B%20Years-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/LLMOps-Production-6B4FBB?style=for-the-badge" alt="LLMOps"/>
