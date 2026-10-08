@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Suman Pathak</h1>
+<h1 align="center">Hi 👋, I'm Suman Pathak</h1>
 
 <h3 align="center">Technical Architect | Senior Python Backend Engineer | GenAI & LLMOps</h3>
 
@@ -17,29 +17,15 @@
 
 ## 👨‍💻 `whoami`
 
-```python
-@observe(trace=True, evaluate=True)
-class SumanPathak(Engineer):
-    """Technical Architect · Senior Python Backend Engineer"""
+<p align="center">
+  <img src="./whoami.svg" alt="Terminal: Suman Pathak, Technical Architect and Senior Python Backend Engineer, 13+ years, Python FastAPI SQL AWS GenAI LLMOps Observability" width="860"/>
+</p>
 
-    experience = "13+ years"
-    stack = ["Python", "FastAPI", "SQL", "AWS", "GenAI", "LLMOps", "Observability"]
-    now = "Enterprise LLMOps observability platform (insurance / AI)"
-    scale = {"apps": "15-20", "transactions_per_day": "10K+"}
-    mentored = 5
-    mantra = "Build it clean. Make it observable. Scale it responsibly."
-
-    @retry(until="zero data loss")
-    def ship(self, feature):
-        try:
-            return self.design(feature).build().observe().scale()
-        except Exception as failure:
-            self.trace(failure)          # observable
-            return self.recover(feature)  # design for failure, not just the happy path
-
-    def open_to(self):
-        return ["Senior Python Backend", "Technical Architect", "GenAI / LLMOps / AI Platform"]
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN%20TO-Senior%20Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Open to Senior Python Backend"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-Technical%20Architect-6B4FBB?style=for-the-badge" alt="Open to Technical Architect"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-GenAI%20%2F%20LLMOps-009688?style=for-the-badge" alt="Open to GenAI and LLMOps"/>
+</p>
 
 ### 🛠️ What I love building
 
@@ -349,7 +335,14 @@ I'm most interested in roles where **Backend Engineering + Cloud + AI + Observab
 
 ---
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samcool1990/Samcool1990/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Samcool1990/Samcool1990/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
