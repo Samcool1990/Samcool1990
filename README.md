@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suman Pathak</h1>
+  <h1 align="center">Hi 👋, I'm Suman Pathak</h1>
 
 <h3 align="center">Technical Architect | Senior Python Backend Engineer | GenAI & LLMOps</h3>
 
@@ -19,12 +19,12 @@
 
 ```python
 class SumanPathak:
-    role       = "Technical Architect · Senior Python Backend Engineer"
-    experience = "13+ years building backends, APIs, cloud-native apps & AI platforms"
-    sweet_spot = ["Python", "FastAPI", "SQL", "AWS", "GenAI", "LLMOps", "Observability"]
-    now        = "Enterprise LLMOps observability platform (insurance / AI domain)"
-    mission    = "Help teams trace, evaluate, monitor and reliably process LLM telemetry at scale"
-    mantra     = "Build it clean. Make it observable. Scale it responsibly. Recover from failure."
+    role = "Technical Architect · Senior Python Backend Engineer"
+    experience = "13+ years"
+    focus = ["Python", "FastAPI", "SQL", "AWS", "GenAI", "LLMOps", "Observability"]
+    now = "Enterprise LLMOps observability platform (insurance / AI)"
+    mission = "Trace, evaluate and monitor LLM telemetry reliably at scale"
+    mantra = "Build it clean. Make it observable. Scale it responsibly."
 
     def open_to(self):
         return [
